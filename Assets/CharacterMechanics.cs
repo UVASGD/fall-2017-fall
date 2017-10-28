@@ -36,6 +36,7 @@ public class CharacterMechanics : MonoBehaviour {
 
 	void OnCollisionEnter (Collision other) {
 		print ("Collision");
+		print (other.gameObject.name);
 
 	}
 }

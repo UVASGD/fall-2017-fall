@@ -3,15 +3,14 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CharacterMovement.cs">
     <Files>
       <File FileName="Assets\Generator.cs" Line="1" Column="1" />
-      <File FileName="Assets\CharacterMechanics.cs" Line="1" Column="1" />
+      <File FileName="Assets\CharacterMechanics.cs" Line="31" Column="2" />
       <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
-      <File FileName="Assets\CharacterMovement.cs" Line="8" Column="26" />
+      <File FileName="Assets\CharacterMovement.cs" Line="24" Column="3" />
+      <File FileName="Assets\Goal.cs" Line="13" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="C:\Users\anjal\OneDrive\Documents\GitHub\fall-2017-fall\Assets\Generator.cs" line="53" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
